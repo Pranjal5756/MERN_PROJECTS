@@ -1,5 +1,6 @@
 import React from "react";
-import main from "./main.jpg";
+// import main from "./main.jpg";
+import main from "../img/main1.jpg";
 import "./mainContent.css"
 
 const MainContent:React.FC = () => {

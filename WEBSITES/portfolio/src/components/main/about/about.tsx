@@ -1,5 +1,5 @@
 import React from "react";
-import aboutimg from "./aboutimg.jpg"
+import aboutimg from "../img/aboutimg1.jpg"
 import "./about.css"
 
 const About:React.FC = () => {
