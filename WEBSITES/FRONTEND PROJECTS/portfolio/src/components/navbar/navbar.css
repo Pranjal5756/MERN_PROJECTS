@@ -1,0 +1,31 @@
+.navbar-nav {
+    margin-left: auto;
+  }
+  
+  
+  
+  nav {
+    background: rgb(67, 176, 196);
+    /* height: 10%; */
+  }
+  .nav-link {
+    color: black !important;
+    font-size: 1rem;
+    font-weight: 700;
+    text-decoration: none;
+    cursor: pointer;
+  }
+  
+  .nav-link:hover {
+    color: white !important;
+    background-color: rgb(71, 134, 134);
+  }
+  
+  .navbar-brand {
+    color: black;
+    font-size: 1.25rem;
+    font-weight: 800 !important;
+    text-decoration: none;
+    cursor: pointer;
+  }
+  
